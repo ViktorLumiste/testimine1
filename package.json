@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@testing-library/vue": "^7.0.0",
+    "happy-dom": "^12.2.0",
+    "vitest": "^0.34.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "dependencies": {
+    "chai": "^4.3.8"
+  }
+}
